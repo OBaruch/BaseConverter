@@ -50,7 +50,7 @@
 ## Phase 5: Delivery
 
 - [x] Commit on a dedicated branch.
-- [ ] Open a pull request against `main` for review.
+- [x] Open a pull request against `main` for review.
 
 ## Out of scope (future, separate work)
 
