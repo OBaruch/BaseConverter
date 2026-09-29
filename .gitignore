@@ -1,0 +1,12 @@
+# GNU Octave
+octave-workspace
+octave-core
+
+# MATLAB autosave (if opened in MATLAB)
+*.asv
+
+# Editors / OS
+*~
+*.swp
+.DS_Store
+Thumbs.db
